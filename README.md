@@ -7,3 +7,5 @@ You must pay attention to the STATUS section, where you will indicate the status
 If you need help you can enter discord where I can help you.
 
 https://discord.gg/HBY3Qp9
+
+The developer is not responsible for any problems caused by the program.
